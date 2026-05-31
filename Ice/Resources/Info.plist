@@ -11,4 +11,5 @@
 	     over our own build. Manual "Check for Updates…" still works from About. -->
 	<key>SUEnableAutomaticChecks</key>
 	<false/>
+</dict>
 </plist>
